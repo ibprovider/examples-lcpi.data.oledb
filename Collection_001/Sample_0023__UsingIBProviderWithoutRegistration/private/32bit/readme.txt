@@ -1,0 +1,1 @@
+﻿Folder for IBProvider 32bit private binaries.

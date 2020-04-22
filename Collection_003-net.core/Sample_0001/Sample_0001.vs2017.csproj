@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <OutputPath>bin\vs2017_$(Configuration)\</OutputPath>
+    <IntermediateOutputPath>obj\vs2017_$(Configuration)\</IntermediateOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="lcpi.data.oledb" Version="1.18.0.4068" />
+  </ItemGroup>
+
+</Project>

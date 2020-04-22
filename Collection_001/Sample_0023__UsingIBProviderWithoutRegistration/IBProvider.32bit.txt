@@ -1,0 +1,11 @@
+provider_file_ext        =ibp;
+provider_clsid           ={638BA021-35CB-43AE-83EF-D1907793E9A8};
+error_service_clsid      ={CE3D5A70-C784-4862-8FB4-3B554CBAC350};
+data_link_page_clsid     ={52D99D84-7A2F-4B5A-98BE-C2BA7D8334E1};
+adv_data_link_page_clsid ={EBEC27FE-12E6-4DA9-B4EA-BCA8DEE196F5};
+provider_prog_id         ="LCPI.IBProvider.3.32bit.Private";
+provider_prog_id_no_ver  ="LCPI.IBProvider.32bit.Private";
+provider_descr           ="LCPI OLE DB Provider for InterBase [v3] [32bit] [Private]";
+error_service_descr      ="LCPI.IBProvider Error Lookup [v3] [32bit] [Private]";
+data_link_page_descr     ="LCPI.IBProvider Data Link Page [v3] [32bit] [Private]";
+adv_data_link_page_descr ="LCPI.IBProvider Advanced Data Link Page [v3] [32bit] [Private]";

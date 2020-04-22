@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <file name = "private\lcpi.ibprovider_v3_vc15_w32_prof_i.dll">
+   <comClass progid="LCPI.IBProvider.3" clsid="{769A1280-04BF-11D8-AE8B-00A0C907DB93}" threadingModel = "Both" />
+  </file>
+  <file name = "private\lcpi.oledb_services_v1_vc15_w32_prof_i.dll">
+   <comClass progid="MSDAINITIALIZE" clsid="{2206CDB0-19C1-11D1-89E0-00C04FD7A829}" threadingModel = "Both" />
+   <comClass progid="PDPO" clsid="{CCB4EC60-B9DC-11D1-AC80-00A0C9034873}" threadingModel = "Both" />
+  </file>
+</assembly>

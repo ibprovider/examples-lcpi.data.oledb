@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <file name = "private\64bit\_IBProvider_v3_64bit_private.dll">
+   <comClass progid="LCPI.IBProvider.3.64bit.Private" clsid="{B770F2BC-BEDC-4B88-8315-7F1E11B5F536}" threadingModel = "Both" />
+  </file>
+  <file name = "private\32bit\_IBProvider_v3_32bit_private.dll">
+   <comClass progid="LCPI.IBProvider.3.32bit.Private" clsid="{638BA021-35CB-43AE-83EF-D1907793E9A8}" threadingModel = "Both" />
+  </file>
+</assembly>
